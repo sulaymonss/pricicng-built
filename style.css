@@ -61,6 +61,13 @@
     color: #fff;
 }
 
+.list-text sup{
+    font-weight: bold;
+    font-size: 25px;
+    position: absolute;
+    transform: translate(0px, 15px);
+}
+
 .image-1{
     margin-top: 72px;
     margin-left: 33px;
@@ -111,6 +118,7 @@
     font-weight: 700;
     margin-bottom: 8px;
     display: inline-block;
+    margin-left: 15px;
 }
 
 .feature-list{
